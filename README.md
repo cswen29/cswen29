@@ -1,8 +1,8 @@
 ## Hello! 
 
-I'm currently working on an Unreal project focused in audio implementation with tools: Metasound, Max, RNBO and Blueprints! I am patching in Max rn...  
+I'm currently working as a Technical Sound Designer for Komodo Range and a Video Editor for ReelShorts! On the side, I'm also in on 2 game dev team (1 as a producer and 1 as the Wwise technical sound designer!) and editing music videos for my ex-band S and R! 
 
-When I'm AFK you can find me in a gym doing jiujitsu or filming music videos with my friends :p 
+When I'm AFK you can find me in doing acroyoga or cooking a bombass meal :p 
 
 ## Contact
 Email: wen@wenchew.com
